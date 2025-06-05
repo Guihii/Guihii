@@ -1,7 +1,6 @@
 ## 👋 Hi there! I'm Guilherme Rodrigues!
 
 🎓 PhD Student 
-
 🔬 Passionate about epigenetic modifications through exercise   
 📚 Sharing science with open-source code  
 🌍 Based in Brazil  
@@ -17,4 +16,4 @@ Codes I use to process DNA methylation data from my research.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/guilherme-rodrigues-83407718a/)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:guirodrigues@usp.br)
--->
+
