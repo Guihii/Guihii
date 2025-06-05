@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**# 👋 Hi there! I'm [Guilherme Rodrigues]!
+## **# 👋 Hi there! I'm [Guilherme Rodrigues]!
 
 🎓 PhD Student 
 🔬 Passionate about epigenetic modifications through exercise   
