@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**Guihii/Guihii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**# 👋 Hi there! I'm [Guilherme Rodrigues]!
 
-Here are some ideas to get you started:
+🎓 PhD Student 
+🔬 Passionate about epigenetic modifications through exercise   
+📚 Sharing science with open-source code  
+🌍 Based in Brazil  
+📧 guirodrigues@usp.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧬 DNA Methylation Data Processing  
+Codes I use to process DNA methylation data from my research. 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guihii&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guihii&show_icons=true)
+
+## 🌐 Find me around the web
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/guilherme-rodrigues-83407718a/)
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:guirodrigues@usp.br)
 -->
