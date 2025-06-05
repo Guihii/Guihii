@@ -15,5 +15,6 @@ Codes I use to process DNA methylation data from my research.
 ## 🌐 Find me around the web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/guilherme-rodrigues-83407718a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/guihii3/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white&style=for-the-badge)](https://orcid.org/0000-0002-9931-4709)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=8avH1IYAAAAJ&hl=pt-BR&oi=ao)
 
