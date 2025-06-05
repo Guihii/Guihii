@@ -1,6 +1,7 @@
-## **# 👋 Hi there! I'm [Guilherme Rodrigues]!
+## 👋 Hi there! I'm Guilherme Rodrigues!
 
 🎓 PhD Student 
+
 🔬 Passionate about epigenetic modifications through exercise   
 📚 Sharing science with open-source code  
 🌍 Based in Brazil  
