@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Guilherme Rodrigues!
 
 🔬 Passionate about epigenetic modifications through exercise
-🎓 PhD Student 
+🎓 PhD Student
 📚 Sharing science with open-source code  
 🌍 Based in Brazil  
 📧 guirodrigues@usp.br
